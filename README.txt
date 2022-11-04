@@ -1,0 +1,1 @@
+﻿Este proyecto fue realizado durante en curso de HTML5 y CSS3 en la plataforma Alura Latam. Es un sitio de información sobre la “Barbería Alura”, esta formado por una página principal se ve información, una pagina donde se puede ver los servicios que ofrece la Barberia y una pagina de contacto. Esta desarrollado con HTML5 y CSS3. 
